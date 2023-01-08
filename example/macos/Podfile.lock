@@ -1,0 +1,22 @@
+PODS:
+  - add_2_calendar (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - add_2_calendar (from `Flutter/ephemeral/.symlinks/plugins/add_2_calendar/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  add_2_calendar:
+    :path: Flutter/ephemeral/.symlinks/plugins/add_2_calendar/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  add_2_calendar: cd3dba2d6c24a34e1e5f4e611f9b0f20860d1559
+  FlutterMacOS: ae6af50a8ea7d6103d888583d46bd8328a7e9811
+
+PODFILE CHECKSUM: 6eac6b3292e5142cfc23bdeb71848a40ec51c14c
+
+COCOAPODS: 1.11.3

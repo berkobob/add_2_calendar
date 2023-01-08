@@ -10,6 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_test:
+    sdk: flutter
+  plugin_platform_interface: ^2.1.3
 
 flutter:
   plugin:
@@ -18,4 +21,6 @@ flutter:
         package: com.javih.add_2_calendar
         pluginClass: Add2CalendarPlugin
       ios:
+        pluginClass: Add2CalendarPlugin
+      macos:
         pluginClass: Add2CalendarPlugin
